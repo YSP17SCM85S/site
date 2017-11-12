@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ProductCatalog>
+    <car carid="1" >
+        <carname>ACCORD</carname>
+        <categoryid>1</categoryid>
+        <brand>HONDA</brand>
+        <model>2016</model>
+		<productionyear>2015</productionyear>
+		<mileage>20</mileage>
+		<color>BLACK</color>
+		<imagepath>./images/home/HONDA_ACCORD.jpg</imagepath>
+		<startingprice>20</startingprice>
+		<reservationstatus>1</reservationstatus>
+		<registrationnumber>US123</registrationnumber>
+	</car>
+	<car carid="2" >
+        <carname>Q5</carname>
+        <categoryid>2</categoryid>
+        <brand>AUDI</brand>
+        <model>2016</model>
+		<productionyear>2015</productionyear>
+		<mileage>20</mileage>
+		<color>SILVER</color>
+		<imagepath>./images/home/AUDI_Q5.jpg</imagepath>
+		<startingprice>50</startingprice>
+		<reservationstatus>1</reservationstatus>
+		<registrationnumber>US223</registrationnumber>
+	</car>
+	<car carid="3" >
+        <carname>CAMARO</carname>
+        <categoryid>3</categoryid>
+        <brand>CHEVROLET</brand>
+        <model>2016</model>
+		<productionyear>2015</productionyear>
+		<mileage>20</mileage>
+		<color>CHERRY</color>
+		<imagepath>./images/home/CHEVEROLAT_CAMARO.jpg</imagepath>
+		<startingprice>60</startingprice>
+		<reservationstatus>1</reservationstatus>
+		<registrationnumber>US323</registrationnumber>
+	</car>
+	<car carid="4" >
+        <carname>Q3</carname>
+        <categoryid>2</categoryid>
+        <brand>AUDI</brand>
+        <model>2016</model>
+		<productionyear>2015</productionyear>
+		<mileage>20</mileage>
+		<color>WHITE</color>
+		<imagepath>./images/home/AUDI_Q3.jpg</imagepath>
+		<startingprice>45</startingprice>
+		<reservationstatus>1</reservationstatus>
+		<registrationnumber>US423</registrationnumber>
+	</car>
+	<car carid="5" >
+        <carname>CIVIC</carname>
+        <categoryid>1</categoryid>
+        <brand>HONDA</brand>
+        <model>2016</model>
+		<productionyear>2015</productionyear>
+		<mileage>20</mileage>
+		<color>GREY</color>
+		<imagepath>./images/home/HONDA_CIVIC.jpg</imagepath>
+		<startingprice>10</startingprice>
+		<reservationstatus>1</reservationstatus>
+		<registrationnumber>US523</registrationnumber>
+	</car>
+	<car carid="6" >
+        <carname>ELANTRA</carname>
+        <categoryid>1</categoryid>
+        <brand>HYUNDAI</brand>
+        <model>2016</model>
+		<productionyear>2015</productionyear>
+		<mileage>20</mileage>
+		<color>WHITE</color>
+		<imagepath>./images/home/HYUNDAI_ELANTRA.jpg</imagepath>
+		<startingprice>25</startingprice>
+		<reservationstatus>1</reservationstatus>
+		<registrationnumber>US623</registrationnumber>
+	</car>
+
+</ProductCatalog>
